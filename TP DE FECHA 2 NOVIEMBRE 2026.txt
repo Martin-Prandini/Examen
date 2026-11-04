@@ -1,0 +1,8 @@
+ALUMNO: GUSTAVO MARTIN PRANDINI
+MATERIA: PROGRAMACION PARA LA SEGURIDAD INFORMATICA
+
+Script correspondiente a la clase de fecha 02-11-2026
+TP_5.PS1
+
+
+https://github.com/Martin-Prandini/tp1_PowerShell/tree/master
